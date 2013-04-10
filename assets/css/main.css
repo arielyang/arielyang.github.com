@@ -1,0 +1,31 @@
+body {
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+.mt30 {
+	margin-top: 30px;
+}
+.mt40 {
+	margin-top: 40px;
+}
+.mbt60 {
+	margin: 60px 0;
+}
+.mb60 {
+	margin-bottom: 60px;
+}
+.nav .active .inverse {
+	border-color: #aaa !important;
+	color: white !important;
+	background-color: #555 !important;
+}
+.table-bordered tr td.inverse {
+	color: white !important;
+	background-color: #555 !important;
+}
+.center {
+	text-align: center !important;
+}
+.middle {
+	vertical-align: middle !important;
+}

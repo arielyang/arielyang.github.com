@@ -1,4 +1,4 @@
-arielyang.github.com
+Ariel's Page
 ====================
 
-Ariel's Page
+yangpan.com
